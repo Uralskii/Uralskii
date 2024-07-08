@@ -1,6 +1,6 @@
-### Hi there, I'm Kostya 👋
+### Hi there! I'm Kostya 👋
 
-### 💫 About Me:
+### 🎞 My Develop Origins:
 ***
 
 ### 💻 Tech Stack:
