@@ -2,7 +2,7 @@
 
 I'm a frontend developer with 5 years of management experience in IT companies.
 
-## 💻 My technologies:
+## 💻 My tech stack:
 - 💎 JavaScript, TypeScript
 - 🏆 React, Redux
 - 🔨 React Router, Socket.io, Axios
