@@ -1,6 +1,6 @@
 # Hi, I'm Kostya! 👋
 
-I'm a frontend developer with 5 years of management experience in IT companies.
+I'm a frontend developer with five years of management experience in IT companies.
 
 ## 💻 My tech stack:
 - 💎 JavaScript, TypeScript, React
